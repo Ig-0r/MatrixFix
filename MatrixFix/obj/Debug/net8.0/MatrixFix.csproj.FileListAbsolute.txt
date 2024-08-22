@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\bin\Debug\net8.0\MatrixFix.exe
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\bin\Debug\net8.0\MatrixFix.deps.json
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\bin\Debug\net8.0\MatrixFix.runtimeconfig.json
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\bin\Debug\net8.0\MatrixFix.dll
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\bin\Debug\net8.0\MatrixFix.pdb
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\MatrixFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\MatrixFix.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\MatrixFix.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\MatrixFix.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\MatrixFix.dll
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\refint\MatrixFix.dll
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\MatrixFix.pdb
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\MatrixFix.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\MatrixFix\MatrixFix\obj\Debug\net8.0\ref\MatrixFix.dll
